@@ -8,7 +8,7 @@ HTML, CSS, Git, JavaScript
 
 Above are the minimum topics to have knowledge of when developing web sites.
 I am doing this course in order to develope competency in creating dynamic web pages.
-As part of the course I hace created a web page to be used as a reference point of subjects covered during the course.
+As part of the course I have created a web page to be used as a reference point to subjects covered during the course.
 The main benefit of the web page is the ease of accessing information for students on this course.
 I have learnt how to use the above topics in order to create a simple interactive page.
 
